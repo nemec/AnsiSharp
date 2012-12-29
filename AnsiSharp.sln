@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnsiSharp", "AnsiSharp\AnsiSharp.csproj", "{6850F3FF-16C7-4B99-8542-E2DAF88C9105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnsiSharp.Examples", "AnsiSharp.Examples\AnsiSharp.Examples.csproj", "{F07F37CA-37E3-4935-AA9A-876D2988708F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6850F3FF-16C7-4B99-8542-E2DAF88C9105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6850F3FF-16C7-4B99-8542-E2DAF88C9105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6850F3FF-16C7-4B99-8542-E2DAF88C9105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6850F3FF-16C7-4B99-8542-E2DAF88C9105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07F37CA-37E3-4935-AA9A-876D2988708F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07F37CA-37E3-4935-AA9A-876D2988708F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07F37CA-37E3-4935-AA9A-876D2988708F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07F37CA-37E3-4935-AA9A-876D2988708F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
